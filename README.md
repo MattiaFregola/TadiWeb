@@ -26,5 +26,6 @@ Click on an idea to see it in action!
 * [Make a website with markup.](/)
 * [Make a website with a document.](/document.html)
 * [Make a website with style.](/style.html)
+* [Make a website with a prototype.](https://www.figma.com/file/MffVNUpMcWt7PadLsesGtG/Tadi-website?type=design&node-id=2%3A60&mode=design&t=OXsLV3hceLUXcMFU-1)
 
 More coming soon!
